@@ -1,0 +1,10 @@
+#IMAGES 9
+background|../Data/map.png
+bot_base|../Data/AIPut.png
+player_base|../Data/PlayerPut.png
+bot_big_icon|../Data/AI/BIG/bot_big_001.png
+bot_medium_icon|../Data/AI/MEDIUM/bot_medium_001.png
+bot_small_icon|../Data/AI/SMALL/bot_small_001.png
+player_big_icon|../Data/Player/BIG/player_big_001.png
+player_medium_icon|../Data/Player/MEDIUM/player_medium_001.png
+player_small_icon|../Data/Player/SMALL/player_small_001.png
